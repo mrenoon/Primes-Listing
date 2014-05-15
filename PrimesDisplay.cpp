@@ -12,7 +12,7 @@ vi ap;
 vector<bool> prime;
 
 ll N,i,j;
-
+//version 3.0
 int main(){
 	printf("Input N = ");
 	scanf("%lld", &N);
